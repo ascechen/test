@@ -4,6 +4,7 @@ mathjax: true
 permalink: /classification/
 ---
 
+## Introduction
 This is an introductory lecture designed to introduce people from outside of Computer Vision to the Image Classification problem, and the data-driven approach. The Table of Contents:
 
 - [Intro to Image Classification, data-driven approach, pipeline](#intro)
@@ -14,6 +15,8 @@ This is an introductory lecture designed to introduce people from outside of Com
 - [Summary](#summary)
 - [Summary: Applying kNN in practice](#summaryapply)
 - [Further Reading](#reading)
+
+
 
 <a name='intro'></a>
 
